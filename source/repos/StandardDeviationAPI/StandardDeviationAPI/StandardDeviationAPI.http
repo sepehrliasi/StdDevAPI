@@ -1,0 +1,6 @@
+@StandardDeviationAPI_HostAddress = http://localhost:5100
+
+POST {{StandardDeviationAPI_HostAddress}}/standarddeviation/
+Accept: application/json
+
+###
